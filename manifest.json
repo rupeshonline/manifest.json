@@ -1,0 +1,45 @@
+{
+	"short_name": "instagramdownloaderapp",
+	"name": "instagram downloader ",
+	"icons": [
+  	{
+    	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRA4cxB-YEMPamn4Sn_HTi-KLG52g3oV40bsFJxRYLCN_qdZXbhlT4hvCWAvRAGL313wkiCadLPoj_qOOp7O_lXkGfJp79RUQNYSgp9A7iXGkNlxsmEJRRFWRBd_uAjIKn6MbxVr0zoMWHNCi7alCs-WIJrg4DdAsMHA8V4v83LM_2F58OjiWo7eaEg/s1632/logo.jpg",
+    	"type": "image/png",
+    	"sizes": "48x48"
+  	},
+  	{
+    	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRA4cxB-YEMPamn4Sn_HTi-KLG52g3oV40bsFJxRYLCN_qdZXbhlT4hvCWAvRAGL313wkiCadLPoj_qOOp7O_lXkGfJp79RUQNYSgp9A7iXGkNlxsmEJRRFWRBd_uAjIKn6MbxVr0zoMWHNCi7alCs-WIJrg4DdAsMHA8V4v83LM_2F58OjiWo7eaEg/s1632/logo.jpg",
+    	"type": "image/png",
+    	"sizes": "96x96"
+  	},
+  	{
+    	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRA4cxB-YEMPamn4Sn_HTi-KLG52g3oV40bsFJxRYLCN_qdZXbhlT4hvCWAvRAGL313wkiCadLPoj_qOOp7O_lXkGfJp79RUQNYSgp9A7iXGkNlxsmEJRRFWRBd_uAjIKn6MbxVr0zoMWHNCi7alCs-WIJrg4DdAsMHA8V4v83LM_2F58OjiWo7eaEg/s1632/logo.jpg",
+    	"type": "image/png",
+    	"sizes": "128x128"
+  	},
+  	{
+    	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRA4cxB-YEMPamn4Sn_HTi-KLG52g3oV40bsFJxRYLCN_qdZXbhlT4hvCWAvRAGL313wkiCadLPoj_qOOp7O_lXkGfJp79RUQNYSgp9A7iXGkNlxsmEJRRFWRBd_uAjIKn6MbxVr0zoMWHNCi7alCs-WIJrg4DdAsMHA8V4v83LM_2F58OjiWo7eaEg/s1632/logo.jpg",
+    	"type": "image/png",
+    	"sizes": "152x152"
+  	},
+  	{
+    	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRA4cxB-YEMPamn4Sn_HTi-KLG52g3oV40bsFJxRYLCN_qdZXbhlT4hvCWAvRAGL313wkiCadLPoj_qOOp7O_lXkGfJp79RUQNYSgp9A7iXGkNlxsmEJRRFWRBd_uAjIKn6MbxVr0zoMWHNCi7alCs-WIJrg4DdAsMHA8V4v83LM_2F58OjiWo7eaEg/s1632/logo.jpg",
+    	"type": "image/png",
+    	"sizes": "144x144"
+  	},
+  	{
+    	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRA4cxB-YEMPamn4Sn_HTi-KLG52g3oV40bsFJxRYLCN_qdZXbhlT4hvCWAvRAGL313wkiCadLPoj_qOOp7O_lXkGfJp79RUQNYSgp9A7iXGkNlxsmEJRRFWRBd_uAjIKn6MbxVr0zoMWHNCi7alCs-WIJrg4DdAsMHA8V4v83LM_2F58OjiWo7eaEg/s1632/logo.jpg",
+    	"type": "image/png",
+    	"sizes": "192x192"
+  	},
+  	{
+    	"src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRA4cxB-YEMPamn4Sn_HTi-KLG52g3oV40bsFJxRYLCN_qdZXbhlT4hvCWAvRAGL313wkiCadLPoj_qOOp7O_lXkGfJp79RUQNYSgp9A7iXGkNlxsmEJRRFWRBd_uAjIKn6MbxVr0zoMWHNCi7alCs-WIJrg4DdAsMHA8V4v83LM_2F58OjiWo7eaEg/s1632/logo.jpg",
+    	"type": "image/png",
+    	"sizes": "512x512"
+  	}
+	],
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
+	"start_url": "./?utm_source=pwa",
+	"display": "standalone"
+}
